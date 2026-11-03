@@ -34,7 +34,7 @@ export function Install() {
         <div className="band-ctas">
           <a className="btn btn-white" href="https://zidane.si/docs/desktop">Read the docs</a>
         </div>
-        <p className="band-small">macOS and Linux · Open source, MIT licensed</p>
+        <p className="band-small">macOS and Linux</p>
       </div>
       <div className="band-icon">
         <div className="band-icon-big">

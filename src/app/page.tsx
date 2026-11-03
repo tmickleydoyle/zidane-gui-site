@@ -73,7 +73,7 @@ export default function Home() {
                 <a className="btn btn-blue" href="#install">Install Zidane</a>
                 <a className="btn btn-ghost" href="#tour">Take the tour</a>
               </div>
-              <p className="hero-foot">Open source. Works with the models and subscriptions you already have.</p>
+              <p className="hero-foot">Works with the models and subscriptions you already have.</p>
             </div>
             <div className="hero-shot">
               <RunDemo />
@@ -167,7 +167,6 @@ export default function Home() {
             <Image src="/mark.png" alt="" width={22} height={22} />
             Zidane
           </span>
-          <span>Open source, MIT licensed.</span>
           <nav aria-label="Footer">
             <a href="#tour">Tour</a>
             <a href="#features">Features</a>
